@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 47be139aaf76cb84b80fafd37c9ac800
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MaxForwardSpeed: {fileID: 11400000, guid: 9e64234b77b884a45875482dcb2d3f57, type: 2}
+  - BoostSpeed: {fileID: 11400000, guid: 89e54778f3f175042b508f6a12f5a903, type: 2}
+  - MaxAspirationSpeed: {fileID: 11400000, guid: 2c02c08ff39ccf742b1d31cb645c09df,
+      type: 2}
+  - ForwardAcceleration: {fileID: 11400000, guid: ccaa9e3ccbe29bb4092baba55d5799af,
+      type: 2}
+  - ForwardDecceleration: {fileID: 11400000, guid: 9611b5d5b237292409fb070064856837,
+      type: 2}
+  - ObstacleSpeedReduce: {fileID: 11400000, guid: 098888ba079952d49813c1c0eeff0185,
+      type: 2}
+  - SelfLookAt: {instanceID: 0}
+  - SelfCameraController: {instanceID: 0}
+  - BaseRotationSpeed: {fileID: 11400000, guid: 8a18e125625dd7846a75836a3d3adcc3,
+      type: 2}
+  - MinDistanceFromPoint: {fileID: 11400000, guid: 37ae2ebf90b487246b6f59538a1ec329,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

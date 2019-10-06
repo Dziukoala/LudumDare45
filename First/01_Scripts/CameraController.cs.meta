@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4e44ee0bd8dc8ee4b99e24dbd83056cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SmoothRotationValue: {fileID: 11400000, guid: 9c0bdf4975f5d1c40be9defa2a75eb75,
+      type: 2}
+  - SmoothPositionValue: {fileID: 11400000, guid: 83a9dbdfcc57dea408913c6c5eef028a,
+      type: 2}
+  - CalculatedCamera: {instanceID: 0}
+  - PlayerTransform: {instanceID: 0}
+  - MaxDistanceToPlayer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

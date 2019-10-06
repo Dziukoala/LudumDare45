@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc95d133931295f40a8497d5f8d28260
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InstanciedShield: {instanceID: 0}
+  - ShieldPrefab: {fileID: 8346186955071815494, guid: 81b9c325da746524ca4112233341ae8a,
+      type: 3}
+  - ShootPrefab: {fileID: 8385960577269472252, guid: 77f5d4a953a9bbc478edcf5aa4f7a31a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

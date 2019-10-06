@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cb39d14dd1f726d4e8e19d8dbda02f9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MaxSideSpeed: {fileID: 11400000, guid: 83ab195ea12a73145bf229924a8cb771, type: 2}
+  - DashSpeed: {fileID: 11400000, guid: a6e3f7edb38a91440813b226fe2f5087, type: 2}
+  - DashCooldownValue: {fileID: 11400000, guid: aa8db73bc25fe48408770c3be6e1c573,
+      type: 2}
+  - SelfCameraTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
